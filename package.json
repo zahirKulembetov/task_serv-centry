@@ -1,0 +1,31 @@
+{
+  "name": "test-quest",
+  "version": "1.0.0",
+  "description": "Необходимо добавить возможность перемещать столбцы между собой пример:",
+  "main": "Items.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albsir/test_quest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albsir/test_quest/issues"
+  },
+  "homepage": "https://github.com/albsir/test_quest#readme",
+  "dependencies": {
+    "antd": "^5.1.6",
+    "axios": "^1.2.3",
+    "next": "^12.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-drag-listview": "^2.0.0",
+    "react-sortable-hoc": "^2.0.0"
+  }
+}
